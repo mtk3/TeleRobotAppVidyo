@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">McGillTeleRobotApp</string>
+    <string name="StartUser">Start as User</string>
+    <string name="StartRobot">Start as Robot</string>
+    <string name="LeftUpArrow">LeftUpArrow</string>
+    <string name="LeftLeftArrow">LeftLeftArrow</string>
+    <string name="LeftDownArrow">LeftDownArrow</string>
+    <string name="RightUpArrow">RightUpArrow</string>
+    <string name="RightRightArrow">RightRightArrow</string>
+    <string name="RightDownArrow">RightDownArrow</string>
+    <string name="DebugTextView">Debug TextView</string>
+</resources>
